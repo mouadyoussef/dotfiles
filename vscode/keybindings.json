@@ -1,0 +1,13 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+cmd+=",
+    "command": "wwm.aligncode",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+alt+f",
+    "command": "-notebook.formatCell",
+    "when": "editorHasDocumentFormattingProvider && editorTextFocus && inCompositeEditor && notebookEditable && !editorReadonly && activeEditor == 'workbench.editor.notebook'"
+  }
+]

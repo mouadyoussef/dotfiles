@@ -1,0 +1,70 @@
+{
+    "editor.fontFamily": "'Hack Nerd Font Propo', 'JetBrains Mono', Hack, 'Fira Code Retina', Consolas, 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.printWidth": 160,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "jest.coverageColors": {
+        "covered": "rgba(80, 200, 120, 0.25)",
+        "uncovered": "rgba(220, 20, 60, 0.25)",
+        "partially-covered": "rgba(235, 198, 52, 0.25)",
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "eslint.lintTask.enable": true,
+    "editor.inlineSuggest.enabled": true,
+    "git.confirmSync": false,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "300",
+    "editor.guides.bracketPairs": "active",
+    "workbench.colorTheme": "Default Dark+ Experimental",
+    "jest.debugMode": true,
+    "terminal.integrated.fontFamily": "MesloLGM NF",
+    "azure.resourceFilter": [
+        "72f988bf-86f1-41af-91ab-2d7cd011db47/bddbc709-fb03-44af-acad-68d8ff6e4a8c"
+    ],
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "github.copilot.advanced": {},
+    "github.copilot.editor.enableAutoCompletions": true,
+    "window.doubleClickIconToClose": true,
+    "editor.lineNumbers": "relative",
+    "vim.easymotion": true,
+    "vim.handleKeys": {
+        "<C-f>": false,
+        "<C-p>": false,
+        "<C-n>": false,
+        "<C-b>": false
+    },
+    "vim.hlsearch": true,
+    "vim.incsearch": true,
+    "vim.leader": "<space>",
+    "vim.useCtrlKeys": true,
+    "vim.useSystemClipboard": true,
+    "vim.overrideCopy": true,
+}
